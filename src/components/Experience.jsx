@@ -94,7 +94,7 @@ export default function Experience({ onOpenCert }) {
               <span className="tag">CSS</span>
             </div>
             <button className="cert-btn" onClick={onOpenCert}>
-              <i className="fas fa-certificate"></i> View Certificate{' '}
+              <i className="fas fa-certificate"></i> View Certificate{}
               <i className="fas fa-arrow-right"></i>
             </button>
           </div>
